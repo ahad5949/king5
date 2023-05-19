@@ -168,7 +168,7 @@ def fuck():
     print(' [✓] OK Ids saved as AHAD ISLAM-OK.txt')
     print(' [✓] CP Id Save as AHAD ISLAM-CP.txt')
     print('-------------------')
-def(uid,pwx,tl):
+def xd(uid,pwx,tl):
     global loop
     global cps
     global oks
